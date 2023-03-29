@@ -1,1 +1,1 @@
-A simple ToDo app written with ExpressJS.
+A simple ToDo app.
